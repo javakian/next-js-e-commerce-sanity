@@ -30,7 +30,7 @@
     "postcss-preset-env": "^6.7.0",
     "prettier": "^2.1.2",
     "sanity-template": "^2.1.1",
-    "tailwindcss": "^1.9.6"
+    "tailwindcss": "^2.2.0"
   },
   "keywords": [],
   "author": "Sanity.io <hello@sanity.io>",
