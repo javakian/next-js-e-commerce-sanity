@@ -25,7 +25,7 @@
   "devDependencies": {
     "@sanity/cli": "^2.0.9",
     "concurrently": "^5.3.0",
-    "lerna": "^3.22.1",
+    "lerna": "^6.5.0",
     "postcss-flexbugs-fixes": "4.2.1",
     "postcss-preset-env": "^6.7.0",
     "prettier": "^2.1.2",
